@@ -230,33 +230,15 @@ go run main.go
 
 ---
 
-## 📞 Información del Proyecto
-
-**Repositorio Principal:** [Enlace al repositorio]  
-**Estudiante:** Alberto  
-**Materia:** SP - Sistemas Programables  
-**Período:** 2025-1  
-
----
-
 ## 🔗 Enlaces por Lenguaje
 
-- [Node.js Implementation](./nodejs.md)
+- [Node.js Implementation](./node_js.md)
 - [C# Implementation](./c_sharp.md) 
 - [Rust Implementation](./rust.md)
 - [Go Implementation](./go.md)
 - [Python Implementation](./python.md)
 
 ---
-
-*"La diversidad de lenguajes enriquece la perspectiva de solución en sistemas embebidos"* - IoTeacher
-```
-
----
-
-## **📁 ESTRUCTURA DE SUB-REPOSITORIOS**
-
-Para cada lenguaje, crea un `README.md` específico:
 
 ### **Ejemplo: `/nodejs/README.md`**
 ```markdown
