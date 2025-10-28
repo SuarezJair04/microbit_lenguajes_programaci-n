@@ -1,8 +1,8 @@
 # 🔧 Práctica Integral - Lectura Serial micro:bit en 6 Lenguajes
 
-**Materia:** SP  
-**Estudiante:** Alberto  
-**Docente:** IoTeacher  
+**Materia:** Sistemas Programables  
+**Universidad:** Instituto Tecnológico de Tijuana
+**Estudiante:** Suárez Castro Jair Alberto 22211663  
 **Fecha:** Octubre 2025  
 **Modalidad:** Local (sin nube, sin MQTT)  
 **Evidencia:** Proyecto completo en disco externo (E:)
