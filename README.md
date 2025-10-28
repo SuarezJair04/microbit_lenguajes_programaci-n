@@ -15,18 +15,6 @@ Comprender y mantener una solución IoT que lee datos en tiempo real enviados po
 
 ---
 
-## 📊 Lenguajes Implementados
-
-| Lenguaje | Estado | Ubicación | Dependencias |
-|----------|--------|-----------|--------------|
-| 🟢 **Node.js** | ✅ Completado | [`/nodejs`](./nodejs) | serialport |
-| 🐍 **Python** | 🔄 Pendiente | [`/python`](./python) | pyserial |
-| 💻 **C#** | ✅ Completado | [`/csharp`](./csharp) | System.IO.Ports |
-| 🦀 **Rust** | ✅ Completado | [`/rust`](./rust) | serialport, serde |
-| 🟦 **Go** | ✅ Completado | [`/go`](./go) | go.bug.st/serial |
-
----
-
 ## 🏗️ Estructura del Proyecto
 
 ```
@@ -253,11 +241,11 @@ go run main.go
 
 ## 🔗 Enlaces por Lenguaje
 
-- [Node.js Implementation](./nodejs/README.md)
-- [C# Implementation](./csharp/README.md) 
-- [Rust Implementation](./rust/README.md)
-- [Go Implementation](./go/README.md)
-- [Python Implementation](./python/README.md)
+- [Node.js Implementation](./nodejs.md)
+- [C# Implementation](./c_sharp.md) 
+- [Rust Implementation](./rust.md)
+- [Go Implementation](./go.md)
+- [Python Implementation](./python.md)
 
 ---
 
