@@ -237,6 +237,8 @@ go run main.go
 - [Rust Implementation](./rust.md)
 - [Go Implementation](./go.md)
 - [Python Implementation](./python.md)
+- [C++ Implementation](./c_plus_plus.md)
+
 
 ---
 
